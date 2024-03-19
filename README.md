@@ -23,7 +23,7 @@ for the frontend. For the frontend I made use of NextJS powered by typescript. N
 underneath is simple react. I used Tailwind CSS to easily manage CSS in my project. The 3 micoservices are encapsulated within a docker-compose enviornment, which can be started 
 using a simple `docker-compose up` file
 
-# Missed Features
+# Future Scope
 Some features which I was not able to implement
 1. Filtering of movement table on frontend
 2. Graph or Map to show movement across farms
